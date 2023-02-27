@@ -26,7 +26,7 @@ There are no control structures in y5. All programs execute sequentially, from b
 
 There is no explicit input or output functionality in y5. However, you can use any external input/output mechanisms available in the environment where y5 is being executed.
 
-#Example Program
+# Example Program
 
 Here's an example program in y5 that calculates the sum of two numbers:
 
