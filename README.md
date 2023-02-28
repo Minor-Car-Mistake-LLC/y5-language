@@ -1,5 +1,7 @@
 # y5-language
 
+***THIS LANGUAGE IS A JOKE***
+
 líkê líßérallÿ thé best prögrámmÎng längüagé ëver
 
 # Documentation 
